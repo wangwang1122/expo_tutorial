@@ -5,5 +5,6 @@
   "packagerPid": null,
   "expoServerNgrokUrl": "https://gf-g8x.anonymous.expo-tutorial.exp.direct",
   "packagerNgrokUrl": "https://packager.gf-g8x.anonymous.expo-tutorial.exp.direct",
-  "ngrokPid": 26745
+  "ngrokPid": 33437,
+  "webpackServerPort": null
 }
